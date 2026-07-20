@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class Pattern {
+public class Pattern4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // outer loop
-        for(int i = 1; i<=5 ;i = i+1){
+        for(int i = 5; i>=1 ;i = i-1){
             // inner loop
             for(int j = 1; j<=i; j++){
                System.out.print("*"); 

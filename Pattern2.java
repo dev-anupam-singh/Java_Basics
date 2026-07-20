@@ -1,15 +1,15 @@
-import java.util.Scanner;
+import java.util.*;
 
-public class Pattern {
+public class Pattern2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        // outer loop
+
         for(int i = 1; i<=5 ;i = i+1){
-            // inner loop
-            for(int j = 1; j<=i; j++){
+            for(int j = 1; j<=5; j++){
                System.out.print("*"); 
             }
-        System.out.println();
+            System.out.println();
         }
     }
 }
+
