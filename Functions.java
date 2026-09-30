@@ -33,8 +33,6 @@ public class Functions {
        Scanner sc = new Scanner(System.in);
        int n = sc.nextInt();
 
-
        printFactorial(n);
    }
 }
-
