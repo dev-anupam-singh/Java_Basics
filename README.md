@@ -2,7 +2,7 @@
 
 This repository documents my journey of learning Java through daily practice, coding exercises, and problem-solving.
 
-##About
+## About
 
 I am a B.Tech Computer Science student building a strong foundation in Java programming and object-oriented programming.
 
@@ -18,21 +18,21 @@ I am a B.Tech Computer Science student building a strong foundation in Java prog
 - Constructors and Constructor Overloading
 - "this" Keyword
 
-##Repository Structure
+## Repository Structure
 
 Programs and practice exercises are organized according to the topics and learning days.
 
-##Technologies
+## Technologies
 
 - Java
 - Git
 - GitHub
 
-##Goal
+## Goal
 
 To strengthen my programming fundamentals, improve problem-solving skills, and prepare for software development internships.
 
-##Author
+## Author
 
 Anupam Singh
 
